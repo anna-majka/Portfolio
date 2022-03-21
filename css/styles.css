@@ -187,6 +187,57 @@ figcaption{
 .images{
   min-width: 50%;
 }
+/*----------form----------------*/
+.project-form{
+  margin: 30px 0;
+  padding: 70px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px;
+  width: 70%;
+  margin: 0 auto;
+  border-radius: 1%;
+  background-color: #f3ede9;
+}
+label{
+ margin: 15px 0 5px 0 ;
+}
+input{
+  color: #002f3b;
+  margin-bottom: 5px;
+  height: 25px;
+  border: none;
+  padding:5px 10px;
+  background-color: /*#f3ede9;*/white;
+  font-family: 'Raleway', sans-serif;
+}
+textarea{
+  background-color: /*#f3ede9;*/white;
+  color: #002f3b;
+  border: none;
+  padding: 5px 10px;
+  margin-bottom: 15px;
+  font-family: 'Raleway', sans-serif;
+}
+.btn-form{
+  width: 15%;
+  margin: 0 auto;
+  padding: 10px;
+  color: #002f3b;
+  background-color: #f3ede9;
+  /*background: #f37d01;
+  color: white;
+  border: #f37d01;*/
+}
+.social-media{
+  display: flex;
+  margin: 0 auto;
+  padding-top: 10px;
+  justify-content: center;
+}
 /*----------footer-------------*/
 footer{
   text-align: center;

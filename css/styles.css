@@ -188,7 +188,7 @@ figcaption{
   min-width: 50%;
 }
 /*----------form----------------*/
-.project-form{
+/*.project-form{
   margin: 30px 0;
   padding: 70px;
 }
@@ -211,11 +211,11 @@ input{
   height: 25px;
   border: none;
   padding:5px 10px;
-  background-color: /*#f3ede9;*/white;
+  background-color: white;
   font-family: 'Raleway', sans-serif;
 }
 textarea{
-  background-color: /*#f3ede9;*/white;
+  background-color: white;
   color: #002f3b;
   border: none;
   padding: 5px 10px;
@@ -230,13 +230,13 @@ textarea{
   background-color: #f3ede9;
   /*background: #f37d01;
   color: white;
-  border: #f37d01;*/
+  border: #f37d01;
 }
 .social-media{
   display: flex;
   margin: 0 auto;
   padding-top: 10px;
-  justify-content: center;
+  justify-content: center;*/
 }
 /*----------footer-------------*/
 footer{

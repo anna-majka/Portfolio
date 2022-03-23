@@ -158,6 +158,9 @@ a{
     width: 100%;
   }
 }
+span{
+  color: #ff305d;
+}
 /*----------buttons-------------*/
 .button{
 border: 1px solid;

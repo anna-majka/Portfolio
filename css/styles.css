@@ -231,12 +231,6 @@ textarea{
   /*background: #f37d01;
   color: white;
   border: #f37d01;
-}
-.social-media{
-  display: flex;
-  margin: 0 auto;
-  padding-top: 10px;
-  justify-content: center;
 }*/
 /*----------footer-------------*/
 footer{
@@ -248,6 +242,12 @@ hr{
   border-top: 1px solid #f37d01;
   border-color: #f37d01;
   width: 90%;
+}
+.social-media{
+  display: flex;
+  margin: 0 auto;
+  padding-top: 10px;
+  justify-content: center;
 }
 /*-----------fontawesome icons-----------*/
 .fa-envelope {

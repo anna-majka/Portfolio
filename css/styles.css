@@ -127,6 +127,10 @@ p{
 .right-aligment{
   text-align: right;
 }
+/*----------projets---------------*/
+.projet-description{
+  font-size: 18px;
+}
 /*----------journal-------------*/
 .intro-img-jrn{
   margin-top: 80px;

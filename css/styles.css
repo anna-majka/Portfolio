@@ -13,14 +13,14 @@ img{
 }
 /*----------navbar-------------*/
 nav {
-    background-color: #31727b;
+    background-color: #f3ede9;
     position: fixed;
     z-index: 1;
     width: 100%;
   }
 nav li a{
   text-decoration: none;
-  color:  #FFFAF5;
+  color: /*#FFFAF5;#002f3b;*/#31727b;
   font-weight: 600;
 }
 nav ul li {
@@ -134,8 +134,8 @@ p{
 /*----------journal-------------*/
 .intro-img-jrn{
   margin-top: 80px;
-  border-radius: 1%;
-  min-width: 50%;
+  border-radius: 50%;
+  max-width: 75%;
 }
 .img-jrn{
   width: 426px;

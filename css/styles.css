@@ -21,7 +21,7 @@ nav {
 nav li a{
   text-decoration: none;
   color: /*#FFFAF5;#002f3b;*/#31727b;
-  font-weight: 600;
+  font-weight: bolder;
 }
 nav ul li {
   display: inline-block;
@@ -46,6 +46,7 @@ header{
 }
 strong{
   color:#f37d01;
+  font-weight: 600;
 }
 /*----------headings-------------*/
 h1{
@@ -58,13 +59,14 @@ h2{
   font-size: 32px;
   line-height: 130%;
   color: #31727b;
-  font-weight: normal;
+  font-weight: 600;
 }
 h3, h4, h5, h6{
   text-align: center;
 }
 h4{
   margin-top:80px;
+  font-weight: 600;
 }
 /*----------sections-------------*/
 .sections-title{
@@ -91,7 +93,7 @@ section.skills{
   font-size: 20px;
   margin: 0 auto;
   padding: 5px;
-  font-weight: bold;
+  font-weight: 600;
 }
 ul li {
     list-style: none;
